@@ -7,10 +7,18 @@ ul {
 li {
     /* text-align: center; */
     padding: 20px;
+    transition-property: transform;
+    transition-duration: 4s;
+    /* transition-delay: 2s; */
+
 }
 
 .sidebar {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+}
+
+li:hover {
+    transform: scale(1.5);
 }
