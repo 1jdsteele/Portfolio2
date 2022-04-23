@@ -3,7 +3,7 @@ import './SidebarRight.css';
 function SidebarRight() {
   return (
     <aside className="some-pics-right flex-right-side">
-        <p>
+        <p className="underline">
           <a href="https://www.linkedin.com/in/1jdsteele/">
             LinkedIn
           </a>

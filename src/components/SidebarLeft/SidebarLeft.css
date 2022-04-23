@@ -8,9 +8,14 @@ li {
     /* text-align: center; */
     padding: 20px;
     transition-property: transform;
-    transition-duration: 4s;
+    transition-duration: 1s;
     /* transition-delay: 2s; */
-
+    /* color: blue; */
+    border: solid;
+    max-width: 60%;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-bottom: 5px;
 }
 
 .sidebar {
@@ -20,5 +25,5 @@ li {
 }
 
 li:hover {
-    transform: scale(1.5);
+    transform: scale(1.1);
 }
