@@ -1,0 +1,16 @@
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding-left: 0 !important;
+}
+
+li {
+    /* text-align: center; */
+    padding: 20px;
+}
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
