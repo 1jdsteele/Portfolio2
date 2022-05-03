@@ -16,3 +16,17 @@
     flex-direction: row;
 }
 
+.headerFlex h1 {
+    padding: 10px;
+    padding-top: 15px;
+    margin: 20px;
+    font-size: 3em;
+}
+
+.headerFlex h2 {
+    font-size: 2em;
+    padding: 10px;
+    
+    margin: 20px;
+    padding-top: 30px;
+}
