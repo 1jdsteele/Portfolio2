@@ -11,4 +11,14 @@ main h3 {
 
 main p {
     padding: 10px;
+    max-width: 80%;
+    margin: 0 auto;
+    line-height: 1.5em;
+}
+
+main h4 {
+    margin: 0 auto;
+    max-width: 85%;
+    padding: 10px;
+
 }
