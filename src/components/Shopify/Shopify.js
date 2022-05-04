@@ -12,14 +12,14 @@ function Shopify() {
         <div>
           <a href="https://www.twillthemessenger.com/blogs/woven-scripts">
             <p className="button-border">
-              Click here for blog landing page.
+              Click here for blog landing page
             </p>
           </a>
         </div>
         <div>
           <a href="https://www.twillthemessenger.com/pages/highlights">
             <p className="button-border">
-              Click here for video gallery.
+              Click here for video gallery
             </p>
           </a>
         </div>

@@ -7,7 +7,7 @@ function Projects() {
           <div>
                 <a href="https://github.com/1jdsteele">
                   <p className="git-border">
-                    Click here for my personal github.
+                    Click here for my personal github
                   </p>
                 </a>
           </div>
