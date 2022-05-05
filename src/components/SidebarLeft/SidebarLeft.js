@@ -11,7 +11,7 @@ function SidebarLeft() {
               <li>Personal Projects</li>
             </Link>
             <Link to="/shopify">
-            <li>Shopify Pages</li>
+            <li>Shopify Freelance</li>
             </Link>
             <Link to="/">
               <li>About Me</li>
