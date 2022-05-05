@@ -5,7 +5,7 @@ function Shopify() {
       <div>
         
         <div>
-          <h3>Shopify component</h3>
+          <h3>Freelance Shopify Work</h3>
           <p>I reworked the blog landing page and created from scratch the video gallery page for upcycling clothing e-store, Twill the Messenger. This work was done with a Shopify developer account that was given access to his store. The work was done in liquid.
           </p>
         </div>

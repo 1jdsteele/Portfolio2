@@ -9,8 +9,8 @@ main h3 {
     text-align: center;
 }
 
-main p {
-    padding: 10px;
+main p, main h5 {
+    padding: 7px;
     max-width: 80%;
     margin: 0 auto;
     line-height: 1.5em;
@@ -19,6 +19,6 @@ main p {
 main h4 {
     margin: 0 auto;
     max-width: 85%;
-    padding: 10px;
+    padding: 7px;
 
 }
