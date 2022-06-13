@@ -5,7 +5,7 @@ function Resume() {
       <div>
         {/* <h3>Resume</h3> */}
           <div>
-          <a href="https://docs.google.com/document/d/10c4ZpsaR9IcypSGSsobTbI1Vu5_ns5ZImbgLlobaJw0/edit?usp=sharing">
+          <a href="https://docs.google.com/document/d/169A1sQFSs-CXZU7dM6XRMERz8TZ_Gh0mkUgykPhriZ8/edit?usp=sharing">
             <p className="button-border">
               Click here to view and download my complete resume
             </p>
