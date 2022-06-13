@@ -21,3 +21,12 @@
     /* transform: scale(1.1); */
     background-color: cornflowerblue;
 }
+
+h4 a {
+    transition-property: color;
+    transition-duration: 1s;
+}
+
+h4 a:hover {
+    color: cornflowerblue;
+}

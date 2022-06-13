@@ -16,15 +16,27 @@ function Projects() {
             <p>The website you are looking at! Made with React and hosted on netlify. No bootstrap.</p>
           </div>
           <div>
-            <h4>RAM electronics</h4>
+            <h4>
+              <a href="https://ram-electronics.netlify.app/">
+                RAM electronics
+              </a>
+            </h4>
             <p>An e-commerce store that sells electronics. Made in a group in a one week sprint. Built using full stack MERN.</p>
           </div>
           <div>
-            <h4>PokeBattle</h4>
+            <h4>
+              <a href="https://pokemonbattleapp.netlify.app/">
+                PokeBattle
+              </a>
+            </h4>
             <p>A game where you choose Pokemon to see who will prevail in battle! Do you have what it takes to become a champion? Made with React calling the Pokemon API.</p>
           </div>
           <div>
-            <h4>MyPet game</h4>
+            <h4>
+              <a href="https://1jdsteele.github.io/MyPet">
+                MyPet game
+              </a>
+            </h4>
             <p>A static site game where you take care of your pet! Made with javascript, HTML, and CSS.</p>
           </div>
       </div>
