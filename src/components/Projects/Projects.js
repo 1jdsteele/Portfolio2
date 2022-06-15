@@ -21,6 +21,7 @@ function Projects() {
                 RAM electronics
               </a>
             </h4>
+            <img src="/RAM.png" alt="RAM electronics concept store screenshot" />
             <p>An e-commerce store that sells electronics. Made in a group in a one week sprint. Built using full stack MERN.</p>
           </div>
           <div>

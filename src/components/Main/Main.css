@@ -28,3 +28,11 @@ main h4 {
     padding: 7px;
 
 }
+
+img {
+    margin: 0 auto;
+    /* max-width: 85%; */
+    width: 85%;
+    max-width: 650px;
+    padding: 7px;
+}
