@@ -15,6 +15,11 @@ function Shopify() {
               Click here for blog landing page
             </p>
           </a>
+          <h4>
+            <a href="https://www.twillthemessenger.com/blogs/woven-scripts">
+              <img src="/blog.png" alt="Twill blog screenshot" />
+            </a>
+          </h4>
         </div>
         <div>
           <a href="https://www.twillthemessenger.com/pages/highlights">
@@ -22,6 +27,11 @@ function Shopify() {
               Click here for video gallery
             </p>
           </a>
+          <h4>
+            <a href="https://www.twillthemessenger.com/pages/highlights">
+              <img src="/videoGallery.png" alt="Twill video gallery screenshot" />
+            </a>
+          </h4>
         </div>
       </div>
     )
